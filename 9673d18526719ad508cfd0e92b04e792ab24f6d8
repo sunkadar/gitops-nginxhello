@@ -1,0 +1,1 @@
+{"jobID":"ca9d1982-5a98-9fd9-624c-2f477230b0b9","spec":{"type":"policy","cause":{"Message":"","User":"Sunil Kadari \u003csunkadar@cisco.com\u003e"},"spec":{"default:deployment/nginxhello":{"add":{"automated":"true"},"remove":{}}}},"result":null}
